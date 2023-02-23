@@ -22,4 +22,4 @@ cd estudoapp-site
 npm install react-bootstrap bootstrap
 npm install react-router-dom
 ```
-Autora: Nicolas Mendes.
+Autor: Nicolas Mendes.
