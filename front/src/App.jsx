@@ -117,14 +117,14 @@ function App() {
         className="mb-2"
         onClick={handleShowCreateModal}
         variant='primary'>
-        Criar Conteúdo
+        Inserir Jogos
       </Button>
       <Table striped bordered hover>
         <thead>
           <tr>
-            <th>Titulo</th>
-            <th>Descrição</th>
-            <th>Porcentagem</th>
+            <th>Título do Jogo</th>
+            <th>Descrição do Jogo</th>
+            <th>Porcentagem de aprovação</th>
             <th>Ações</th>
           </tr>
         </thead>
